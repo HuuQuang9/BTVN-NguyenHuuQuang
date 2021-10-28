@@ -17,8 +17,10 @@ int main()
     so[18] = "muoi tam";
     so[19] = "muoi chin";
     so[20] = "hai muoi";
-    so[21] = "hai mot";
-    so[22] = "hai hai";
+    so[21] = "hai muoi mot";
+    so[22] = "hai muoi hai";
+    so[23] = "hai muoi ba";
+    so
         
        
 
